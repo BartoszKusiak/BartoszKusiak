@@ -3,18 +3,18 @@
   Nazywam się Bartosz Kusiak i jestem absolwentem technikum informatycznego a aktualnie kończę studia inżynierskie na kierunku logistyka. Od technikum moje zainteresowanie IT nie zmalało a wręcz przeciwnie zacząłem się interesować i stopniowo zgłębiać swoją wiedzę w obszarze testowania oprogramowania. Na tej stronie chciałbym przedstawić efekty mojej samodzielnej pracy i nauki.
   
 ##Narzędzia
-*Testlink
-*Postman
-*Jira
+* Testlink
+* Postman
+*J ira
  
 ## Umiejętności
-  *SQL
-  *Podstawy Python
-  *SCRUM
+* SQL
+* Podstawy Python
+* SCRUM
 
 ## Kursy
 
-##Rekomendowane blogi
+## Rekomendowane blogi
 (https://remigiuszbednarczyk.pl/portfolio-testera)
 
   
