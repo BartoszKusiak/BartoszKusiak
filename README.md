@@ -2,10 +2,10 @@
 ##O mnie
   Nazywam się Bartosz Kusiak i jestem absolwentem technikum informatycznego a aktualnie kończę studia inżynierskie na kierunku logistyka. Od technikum moje zainteresowanie IT nie zmalało a wręcz przeciwnie zacząłem się interesować i stopniowo zgłębiać swoją wiedzę w obszarze testowania oprogramowania. Na tej stronie chciałbym przedstawić efekty mojej samodzielnej pracy i nauki.
   
-##Narzędzia
+## Narzędzia
 * Testlink
 * Postman
-*J ira
+* Jira
  
 ## Umiejętności
 * SQL
@@ -15,7 +15,7 @@
 ## Kursy
 
 ## Rekomendowane blogi
-(https://remigiuszbednarczyk.pl/portfolio-testera)
+[remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 
   
   
