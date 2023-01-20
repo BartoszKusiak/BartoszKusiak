@@ -13,6 +13,9 @@
 * SCRUM
 
 ## Kursy
+* Learning Jira Software
+* Scrum: The Basics
+* Certyfikat udziału w szkoleniu online "Nie daj się cyberzbójom"
 
 ## Rekomendowane blogi
 [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
